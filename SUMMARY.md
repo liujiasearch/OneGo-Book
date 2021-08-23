@@ -24,3 +24,11 @@
 * [反向传播算法指南](pytorch-ru-men-zhi-nan.md)
 * [Untitled](untitled-3.md)
 
+## 人工智能-机器的对抗艺术 <a id="shun-xu-tiao-zheng-ban"></a>
+
+* [第一章 工欲善其事，必先利其器](shun-xu-tiao-zheng-ban/di-yi-zhang-gong-yu-shan-qi-shi-bi-xian-li-qi-qi.md)
+
+---
+
+* [Untitled](untitled-4.md)
+
