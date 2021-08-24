@@ -24,12 +24,16 @@
 * [反向传播算法指南](pytorch-ru-men-zhi-nan.md)
 * [Untitled](untitled-3.md)
 
-## 人工智能-机器的对抗艺术 <a id="shun-xu-tiao-zheng-ban"></a>
+## 人工智能-超越人类的计算机对抗艺术 <a id="shun-xu-tiao-zheng-ban"></a>
 
-* [第一章 工欲善其事，必先利其器](shun-xu-tiao-zheng-ban/di-yi-zhang-gong-yu-shan-qi-shi-bi-xian-li-qi-qi.md)
-
----
-
-* [第二章 偃师献技](untitled-4.md)
-* [打发掉发答复](da-fa-diao-fa-da-fu.md)
+* [第一章 传统的对抗算法](shun-xu-tiao-zheng-ban/di-yi-zhang-chuan-tong-de-dui-kang-suan-fa.md)
+* [第二章 神经网络快速入门](shun-xu-tiao-zheng-ban/untitled-4.md)
+* [第三章 编程工具快速入门](shun-xu-tiao-zheng-ban/di-san-zhang-bian-cheng-gong-ju-kuai-su-ru-men.md)
+* [第四章 神经网络的训练与调试](shun-xu-tiao-zheng-ban/da-fa-diao-fa-da-fu.md)
+* [第五章 利用监督学习的对抗](shun-xu-tiao-zheng-ban/di-wu-zhang-li-yong-jian-du-xue-xi-de-dui-kang.md)
+* [第六章 强化学习概述](shun-xu-tiao-zheng-ban/di-liu-zhang-qiang-hua-xue-xi-gai-shu.md)
+* [第七章 策略梯度](shun-xu-tiao-zheng-ban/di-qi-zhang-ce-lve-ti-du.md)
+* [第八章 DQN](shun-xu-tiao-zheng-ban/di-ba-zhang-dqn.md)
+* [第九章 Actor-Critic算法](shun-xu-tiao-zheng-ban/di-jiu-zhang-actorcritic-suan-fa.md)
+* [第十章 最终的博弈-AlphaGo与AlphoZero](shun-xu-tiao-zheng-ban/di-shi-zhang-zui-zhong-de-bo-yi-alphago-yu-alphozero.md)
 
